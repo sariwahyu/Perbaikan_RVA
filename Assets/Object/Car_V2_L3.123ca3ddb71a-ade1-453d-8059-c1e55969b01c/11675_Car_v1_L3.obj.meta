@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d7f51043e0a782c4a9deae4329f1f2ad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_Car
+    100004: Exhaust_Pipe_Left_Car
+    100006: Exhaust_Pipe_Right
+    100008: Front_grid
+    100010: Light_Left
+    100012: Light_Right
+    100014: Seat_Car
+    100016: Steering_wheel_1
+    100018: Steering_wheel_Car
+    100020: Tire_Back_Left
+    100022: Tire_Back_Right
+    100024: Tire_Front_Right
+    100026: Wheel_Back_Left
+    100028: Wheel_Back_Right
+    100030: Wheel_Front_Right
+    100032: Windshield_Car
+    100034: default
+    400000: //RootNode
+    400002: Body_Car
+    400004: Exhaust_Pipe_Left_Car
+    400006: Exhaust_Pipe_Right
+    400008: Front_grid
+    400010: Light_Left
+    400012: Light_Right
+    400014: Seat_Car
+    400016: Steering_wheel_1
+    400018: Steering_wheel_Car
+    400020: Tire_Back_Left
+    400022: Tire_Back_Right
+    400024: Tire_Front_Right
+    400026: Wheel_Back_Left
+    400028: Wheel_Back_Right
+    400030: Wheel_Front_Right
+    400032: Windshield_Car
+    400034: default
+    2100000: Body_Car
+    2100002: Exhaust_Pipe
+    2100004: Windshield_Car
+    2100006: Grid_Car
+    2100008: Light
+    2100010: Seat_plast
+    2100012: Steering_wheel
+    2100014: Tire
+    2100016: Metal
+    2300000: Body_Car
+    2300002: Exhaust_Pipe_Left_Car
+    2300004: Exhaust_Pipe_Right
+    2300006: Front_grid
+    2300008: Light_Left
+    2300010: Light_Right
+    2300012: Seat_Car
+    2300014: Steering_wheel_1
+    2300016: Steering_wheel_Car
+    2300018: Tire_Back_Left
+    2300020: Tire_Back_Right
+    2300022: Tire_Front_Right
+    2300024: Wheel_Back_Left
+    2300026: Wheel_Back_Right
+    2300028: Wheel_Front_Right
+    2300030: Windshield_Car
+    2300032: default
+    3300000: Body_Car
+    3300002: Exhaust_Pipe_Left_Car
+    3300004: Exhaust_Pipe_Right
+    3300006: Front_grid
+    3300008: Light_Left
+    3300010: Light_Right
+    3300012: Seat_Car
+    3300014: Steering_wheel_1
+    3300016: Steering_wheel_Car
+    3300018: Tire_Back_Left
+    3300020: Tire_Back_Right
+    3300022: Tire_Front_Right
+    3300024: Wheel_Back_Left
+    3300026: Wheel_Back_Right
+    3300028: Wheel_Front_Right
+    3300030: Windshield_Car
+    3300032: default
+    4300000: Body_Car
+    4300002: Exhaust_Pipe_Left_Car
+    4300004: Exhaust_Pipe_Right
+    4300006: Front_grid
+    4300008: Light_Left
+    4300010: Light_Right
+    4300012: Seat_Car
+    4300014: Steering_wheel_1
+    4300016: Steering_wheel_Car
+    4300018: Tire_Back_Left
+    4300020: Tire_Back_Right
+    4300022: Tire_Front_Right
+    4300024: Wheel_Back_Left
+    4300026: Wheel_Back_Right
+    4300028: Wheel_Front_Right
+    4300030: Windshield_Car
+    4300032: default
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

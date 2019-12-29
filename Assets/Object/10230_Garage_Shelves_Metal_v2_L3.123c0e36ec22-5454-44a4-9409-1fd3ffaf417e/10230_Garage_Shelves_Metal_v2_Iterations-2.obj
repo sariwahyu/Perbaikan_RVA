@@ -1,7 +1,7 @@
 # Blender v2.79 (sub 0) OBJ File: ''
 # www.blender.org
 mtllib 10230_Garage_Shelves_Metal_v2_Iterations-2.mtl
-o 10230_Garage_Shelves_Metal_v1
+o 10230_Garage_Shelves_Metal_v1.001
 v -0.456888 0.002656 0.151888
 v -0.456339 0.002656 0.152218
 v -0.455369 0.002656 0.152382
@@ -14898,7 +14898,7 @@ vn 0.3979 0.5579 -0.7283
 vn 0.3999 -0.6526 -0.6436
 vn 0.4003 -0.3476 0.8479
 vn 0.4001 -0.6436 0.6525
-usemtl 10230_Garage_Shelves_Metal_v1
+usemtl 10230_Garage_Shelves_Metal_v1.001
 s 1
 f 4035/1/1 4151/2/2 4157/3/3 4044/4/4
 f 555/5/5 575/6/6 576/7/7 556/8/8
