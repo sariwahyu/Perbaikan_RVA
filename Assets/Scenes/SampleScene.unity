@@ -303,6 +303,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 4.155, y: 90.079, z: -5.3230004}
+--- !u!1 &267321055 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 478aba6919f687249abb620927acef57,
+    type: 3}
+  m_PrefabInstance: {fileID: 324971022}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &279381302
 GameObject:
   m_ObjectHideFlags: 0
@@ -401,7 +407,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 279381306}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2007335328}
+        m_MethodName: loadSportcar
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &279381306
@@ -814,6 +831,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 7.8090005, y: 130.074, z: 0}
+--- !u!1 &572354583 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 8e44246a464faa64ba39a68cb183abf9,
+    type: 3}
+  m_PrefabInstance: {fileID: 315065680}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &678495311 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: d7f51043e0a782c4a9deae4329f1f2ad,
+    type: 3}
+  m_PrefabInstance: {fileID: 2118323947}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1192737007
 GameObject:
   m_ObjectHideFlags: 0
@@ -912,7 +941,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1192737011}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2007335328}
+        m_MethodName: loadLowo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1192737011
@@ -1050,7 +1090,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1467832971}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2007335328}
+        m_MethodName: loadJazz
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1467832971
@@ -1254,7 +1305,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1588509040}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2007335328}
+        m_MethodName: loadOldracecar
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1588509040
@@ -1455,7 +1517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100022, guid: e810559e6f4a0f24698ff8ac5861a396, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: e810559e6f4a0f24698ff8ac5861a396, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1638,6 +1700,60 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1909229845}
   m_CullTransparentMesh: 0
+--- !u!1 &1966748576 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100022, guid: e810559e6f4a0f24698ff8ac5861a396,
+    type: 3}
+  m_PrefabInstance: {fileID: 1858613899}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2007335327
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2007335329}
+  - component: {fileID: 2007335328}
+  m_Layer: 0
+  m_Name: CarSelect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2007335328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007335327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9d9eb1100f0c304e85825522a57f1fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lowoireng: {fileID: 1966748576}
+  jazz: {fileID: 267321055}
+  oldracecar: {fileID: 678495311}
+  sportcar: {fileID: 572354583}
+  carSelected: 0
+--- !u!4 &2007335329
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007335327}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 144.937, y: 43.20498, z: 0.46648368}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2118323947
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1648,6 +1764,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d7f51043e0a782c4a9deae4329f1f2ad, type: 3}
       propertyPath: m_Name
       value: 11675_Car_v1_L3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d7f51043e0a782c4a9deae4329f1f2ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d7f51043e0a782c4a9deae4329f1f2ad, type: 3}
       propertyPath: m_LocalPosition.x
