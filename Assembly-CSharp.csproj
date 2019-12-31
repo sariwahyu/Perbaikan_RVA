@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\CameraRotator.cs" />
     <Compile Include="Assets\CarSelector.cs" />
+    <Compile Include="Assets\ZoomCam.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/[BAMS]/sekolah/kuliah/materi/TAUN 4/RVA/Perbaikan_RVA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
