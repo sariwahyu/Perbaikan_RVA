@@ -72,6 +72,7 @@
     <Compile Include="Assets\ColorPicker\DrawGUIOrderColorPicker.cs" />
     <Compile Include="Assets\ColorPicker\ObjectColor.cs" />
     <Compile Include="Assets\ColorPicker\PSColor.cs" />
+    <Compile Include="Assets\SteerSelect.cs" />
     <Compile Include="Assets\WheelSelect.cs" />
     <Compile Include="Assets\ZoomCam.cs" />
     <None Include="Assets\ColorPicker\license.txt" />
