@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\CameraRotator.cs" />
     <Compile Include="Assets\CarSelector.cs" />
+    <Compile Include="Assets\ChairSelect.cs" />
     <Compile Include="Assets\ColorPicker\CameraBgColor.cs" />
     <Compile Include="Assets\ColorPicker\ColorPicker.cs" />
     <Compile Include="Assets\ColorPicker\DemoGUI_ColorPickerDemo.cs" />
