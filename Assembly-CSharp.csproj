@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BodySelect.cs" />
     <Compile Include="Assets\CameraRotator.cs" />
     <Compile Include="Assets\CarSelector.cs" />
     <Compile Include="Assets\ChairSelect.cs" />
