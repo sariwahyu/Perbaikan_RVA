@@ -7,21 +7,31 @@ ModelImporter:
     100002: _iron
     100004: _out
     100006: //RootNode
+    100008: _iron.001
+    100010: _out.001
     400000: _in
     400002: _iron
     400004: _out
     400006: //RootNode
+    400008: _iron.001
+    400010: _out.001
     2100000: iron
     2100002: rsMaterial2
     2300000: _in
     2300002: _iron
     2300004: _out
+    2300006: _iron.001
+    2300008: _out.001
     3300000: _in
     3300002: _iron
     3300004: _out
+    3300006: _iron.001
+    3300008: _out.001
     4300000: _iron
     4300002: _in
     4300004: _out
+    4300006: _iron.001
+    4300008: _out.001
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
