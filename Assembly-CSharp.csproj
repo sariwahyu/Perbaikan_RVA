@@ -72,10 +72,24 @@
     <Compile Include="Assets\ColorPicker\DrawGUIOrderColorPicker.cs" />
     <Compile Include="Assets\ColorPicker\ObjectColor.cs" />
     <Compile Include="Assets\ColorPicker\PSColor.cs" />
+    <Compile Include="Assets\Scripts\ActiveStateToggler.cs" />
+    <Compile Include="Assets\Scripts\ApplicationManager.cs" />
+    <Compile Include="Assets\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\Scripts\DragMe.cs" />
+    <Compile Include="Assets\Scripts\DragPanel.cs" />
+    <Compile Include="Assets\Scripts\DropMe.cs" />
+    <Compile Include="Assets\Scripts\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\ResizePanel.cs" />
+    <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
+    <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
+    <Compile Include="Assets\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\SteerSelect.cs" />
     <Compile Include="Assets\WheelSelect.cs" />
     <Compile Include="Assets\ZoomCam.cs" />
+    <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
     <None Include="Assets\ColorPicker\license.txt" />
+    <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+    <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/[BAMS]/sekolah/kuliah/materi/TAUN 4/RVA/Perbaikan_RVA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
