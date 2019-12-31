@@ -65,7 +65,15 @@
   <ItemGroup>
     <Compile Include="Assets\CameraRotator.cs" />
     <Compile Include="Assets\CarSelector.cs" />
+    <Compile Include="Assets\ColorPicker\CameraBgColor.cs" />
+    <Compile Include="Assets\ColorPicker\ColorPicker.cs" />
+    <Compile Include="Assets\ColorPicker\DemoGUI_ColorPickerDemo.cs" />
+    <Compile Include="Assets\ColorPicker\DrawGUIOrderColorPicker.cs" />
+    <Compile Include="Assets\ColorPicker\ObjectColor.cs" />
+    <Compile Include="Assets\ColorPicker\PSColor.cs" />
+    <Compile Include="Assets\WheelSelect.cs" />
     <Compile Include="Assets\ZoomCam.cs" />
+    <None Include="Assets\ColorPicker\license.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/[BAMS]/sekolah/kuliah/materi/TAUN 4/RVA/Perbaikan_RVA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
