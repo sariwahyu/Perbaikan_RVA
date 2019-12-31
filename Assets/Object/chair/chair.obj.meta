@@ -7,21 +7,26 @@ ModelImporter:
     100002: //RootNode
     100004: group2__in
     100006: group2__out
+    100008: default
     400000: _iron_group2
     400002: //RootNode
     400004: group2__in
     400006: group2__out
+    400008: default
     2100000: rsMaterial12SG
     2100002: rsMaterial2SG
     2300000: _iron_group2
     2300002: group2__in
     2300004: group2__out
+    2300006: default
     3300000: _iron_group2
     3300002: group2__in
     3300004: group2__out
+    3300006: default
     4300000: _iron_group2
     4300002: group2__in
     4300004: group2__out
+    4300006: default
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:

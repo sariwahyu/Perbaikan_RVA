@@ -11,6 +11,7 @@ ModelImporter:
     100010: Steeringwheel_seam
     100012: Steeringwheel_site_buttons
     100014: Steeringwheel_site_controll
+    100016: default
     400000: Steeringwheel_Basic
     400002: //RootNode
     400004: Steeringwheel_lower_button
@@ -19,6 +20,7 @@ ModelImporter:
     400010: Steeringwheel_seam
     400012: Steeringwheel_site_buttons
     400014: Steeringwheel_site_controll
+    400016: default
     2100000: Steeringwheel_BasicMat
     2100002: Steeringwheel_lower_buttonMat
     2100004: Steeringwheel_middle_partMat
@@ -26,6 +28,7 @@ ModelImporter:
     2100008: Steeringwheel_seamMat
     2100010: Steeringwheel_site_buttonsMat
     2100012: Steeringwheel_site_controllMat
+    2100014: None
     2300000: Steeringwheel_Basic
     2300002: Steeringwheel_lower_button
     2300004: Steeringwheel_middle_part
@@ -33,6 +36,7 @@ ModelImporter:
     2300008: Steeringwheel_seam
     2300010: Steeringwheel_site_buttons
     2300012: Steeringwheel_site_controll
+    2300014: default
     3300000: Steeringwheel_Basic
     3300002: Steeringwheel_lower_button
     3300004: Steeringwheel_middle_part
@@ -40,6 +44,7 @@ ModelImporter:
     3300008: Steeringwheel_seam
     3300010: Steeringwheel_site_buttons
     3300012: Steeringwheel_site_controll
+    3300014: default
     4300000: Steeringwheel_Basic
     4300002: Steeringwheel_lower_button
     4300004: Steeringwheel_middle_part
@@ -47,6 +52,7 @@ ModelImporter:
     4300008: Steeringwheel_seam
     4300010: Steeringwheel_site_buttons
     4300012: Steeringwheel_site_controll
+    4300014: default
   externalObjects: {}
   materials:
     importMaterials: 1
