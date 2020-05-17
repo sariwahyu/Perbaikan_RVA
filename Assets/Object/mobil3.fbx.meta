@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: f687c03bf2308ac4c964257d5d0425b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01 Base
+    100002: 02 Base rim
+    100004: 03 Base controls
+    100006: 04 Bottom seat
+    100008: 05 Bottom sides
+    100010: 06 Back seat
+    100012: 07 Seat back sides
+    100014: 08 Upper neck
+    100016: 09 Header
+    100018: Area.001
+    100020: aro
+    100022: aro.001
+    100024: Camera
+    100026: Cube
+    100028: Cylinder
+    100030: Cylinder.001
+    100032: Cylinder.002
+    100034: Empty.002
+    100036: Farol
+    100038: Frente
+    100040: lataria
+    100042: Light
+    100044: Maneta
+    100046: //RootNode
+    100048: pneu
+    100050: pneu.001
+    100052: Point
+    100054: Portas
+    100056: Vidro
+    100058: Volante
+    400000: 01 Base
+    400002: 02 Base rim
+    400004: 03 Base controls
+    400006: 04 Bottom seat
+    400008: 05 Bottom sides
+    400010: 06 Back seat
+    400012: 07 Seat back sides
+    400014: 08 Upper neck
+    400016: 09 Header
+    400018: Area.001
+    400020: aro
+    400022: aro.001
+    400024: Camera
+    400026: Cube
+    400028: Cylinder
+    400030: Cylinder.001
+    400032: Cylinder.002
+    400034: Empty.002
+    400036: Farol
+    400038: Frente
+    400040: lataria
+    400042: Light
+    400044: Maneta
+    400046: //RootNode
+    400048: pneu
+    400050: pneu.001
+    400052: Point
+    400054: Portas
+    400056: Vidro
+    400058: Volante
+    2000000: Camera
+    2100000: Plastico Negro
+    2100002: CUERO NEGRO
+    2100004: Aluminio galvanizado
+    2100006: Aluminio negro
+    2100008: Aro
+    2100010: Chroma
+    2100012: Lataria
+    2100014: Farol.001
+    2100016: Lamp
+    2100018: Vidro
+    2100020: Material.002
+    2100022: body
+    2100024: Material
+    2100026: Preto
+    2100028: Pneu
+    2100030: volante
+    2100032: chrome
+    2100034: black
+    2100036: Material.005
+    2100038: Material.003
+    2100040: Material.001
+    2100042: Material.004
+    2300000: 01 Base
+    2300002: 02 Base rim
+    2300004: 03 Base controls
+    2300006: 04 Bottom seat
+    2300008: 05 Bottom sides
+    2300010: 06 Back seat
+    2300012: 07 Seat back sides
+    2300014: 08 Upper neck
+    2300016: 09 Header
+    2300018: aro
+    2300020: aro.001
+    2300022: Cube
+    2300024: Cylinder
+    2300026: Cylinder.001
+    2300028: Cylinder.002
+    2300030: Farol
+    2300032: Frente
+    2300034: lataria
+    2300036: Maneta
+    2300038: pneu
+    2300040: pneu.001
+    2300042: Portas
+    2300044: Vidro
+    2300046: Volante
+    3300000: 01 Base
+    3300002: 02 Base rim
+    3300004: 03 Base controls
+    3300006: 04 Bottom seat
+    3300008: 05 Bottom sides
+    3300010: 06 Back seat
+    3300012: 07 Seat back sides
+    3300014: 08 Upper neck
+    3300016: 09 Header
+    3300018: aro
+    3300020: aro.001
+    3300022: Cube
+    3300024: Cylinder
+    3300026: Cylinder.001
+    3300028: Cylinder.002
+    3300030: Farol
+    3300032: Frente
+    3300034: lataria
+    3300036: Maneta
+    3300038: pneu
+    3300040: pneu.001
+    3300042: Portas
+    3300044: Vidro
+    3300046: Volante
+    4300000: 01 Base
+    4300002: 04 Bottom seat
+    4300004: 09 Header
+    4300006: 05 Bottom sides
+    4300008: 08 Upper neck
+    4300010: 06 Back seat
+    4300012: 07 Seat back sides
+    4300014: 03 Base controls
+    4300016: 02 Base rim
+    4300018: aro
+    4300020: aro.001
+    4300022: Cube
+    4300024: Cylinder.002
+    4300026: Farol
+    4300028: Frente
+    4300030: lataria
+    4300032: Maneta
+    4300034: pneu
+    4300036: pneu.001
+    4300038: Portas
+    4300040: Vidro
+    4300042: Volante
+    4300044: Cylinder
+    4300046: Cylinder.001
+    7400000: Empty.002|EmptyAction
+    9500000: //RootNode
+    10800000: Area.001
+    10800002: Light
+    10800004: Point
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

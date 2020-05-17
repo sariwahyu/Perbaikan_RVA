@@ -8,6 +8,7 @@ public class WheelSelect : MonoBehaviour
     public GameObject street;
     public GameObject offRoad;
     public GameObject treckter;
+    // public GameObject car3opi;
 
     public int wheelSelected;
 
@@ -61,4 +62,43 @@ public class WheelSelect : MonoBehaviour
 
         wheelSelected = 1;
     }
+
+    // public void loadCar1yas()
+    // {
+    //     lowoireng.SetActive(false);
+    //     jazz.SetActive(false);
+    //     oldracecar.SetActive(false);
+    //     sportcar.SetActive(false);
+    //     car1yas.SetActive(true);
+    //     car2april.SetActive(false);
+    //     // car3opi.SetActive(false);
+
+    //     wheelSelected = 1;
+    // }
+
+    // public void loadCar2april()
+    // {
+    //     lowoireng.SetActive(false);
+    //     jazz.SetActive(false);
+    //     oldracecar.SetActive(false);
+    //     sportcar.SetActive(false);
+    //     car1yas.SetActive(false);
+    //     car2april.SetActive(true);
+    //     // car3opi.SetActive(false);
+
+    //     wheelSelected = 1;
+    // }
+
+    // // public void loadCar3opi()
+    // // {
+    // //     lowoireng.SetActive(false);
+    // //     jazz.SetActive(false);
+    // //     oldracecar.SetActive(false);
+    // //     sportcar.SetActive(false);
+    // //     car1yas.SetActive(false);
+    // //     car2april.SetActive(false);
+    // //     // car3opi.SetActive(true);
+        
+    // //     wheelSelected = 1;
+    // // }
 }
