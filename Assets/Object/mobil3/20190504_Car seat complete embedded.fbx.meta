@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 99af4408e1526084fabaaef428560f77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01 Base
+    100002: 02 Base rim
+    100004: 03 Base controls
+    100006: 04 Bottom seat
+    100008: 05 Bottom sides
+    100010: 06 Back seat
+    100012: 07 Seat back sides
+    100014: 08 Upper neck
+    100016: 09 Header
+    100018: //RootNode
+    100020: Area.001
+    100022: aro
+    100024: aro.001
+    100026: Ban
+    100028: Ban2
+    100030: Camera
+    100032: Cube
+    100034: Cylinder.002
+    100036: Empty.002
+    100038: Farol
+    100040: Frente
+    100042: lataria
+    100044: Maneta
+    100046: pneu
+    100048: pneu.001
+    100050: Point
+    100052: Portas
+    100054: Vidro
+    100056: Volante
+    400000: 01 Base
+    400002: 02 Base rim
+    400004: 03 Base controls
+    400006: 04 Bottom seat
+    400008: 05 Bottom sides
+    400010: 06 Back seat
+    400012: 07 Seat back sides
+    400014: 08 Upper neck
+    400016: 09 Header
+    400018: //RootNode
+    400020: Area.001
+    400022: aro
+    400024: aro.001
+    400026: Ban
+    400028: Ban2
+    400030: Camera
+    400032: Cube
+    400034: Cylinder.002
+    400036: Empty.002
+    400038: Farol
+    400040: Frente
+    400042: lataria
+    400044: Maneta
+    400046: pneu
+    400048: pneu.001
+    400050: Point
+    400052: Portas
+    400054: Vidro
+    400056: Volante
+    2000000: Camera
+    2100000: Plastico Negro
+    2100002: CUERO NEGRO
+    2100004: Aluminio galvanizado
+    2100006: Aluminio negro
+    2100008: Aro
+    2100010: Chroma
+    2100012: Lataria
+    2100014: Farol.001
+    2100016: Lamp
+    2100018: Vidro
+    2100020: Material.002
+    2100022: body
+    2100024: Material
+    2100026: Preto
+    2100028: Pneu
+    2100030: volante
+    2100032: chrome
+    2100034: black
+    2100036: Material.005
+    2100038: Material.003
+    2100040: Material.001
+    2100042: Material.004
+    2300000: 01 Base
+    2300002: 02 Base rim
+    2300004: 03 Base controls
+    2300006: 04 Bottom seat
+    2300008: 05 Bottom sides
+    2300010: 06 Back seat
+    2300012: 07 Seat back sides
+    2300014: 08 Upper neck
+    2300016: 09 Header
+    2300018: aro
+    2300020: aro.001
+    2300022: Ban
+    2300024: Ban2
+    2300026: Cube
+    2300028: Cylinder.002
+    2300030: Farol
+    2300032: Frente
+    2300034: lataria
+    2300036: Maneta
+    2300038: pneu
+    2300040: pneu.001
+    2300042: Portas
+    2300044: Vidro
+    2300046: Volante
+    3300000: 01 Base
+    3300002: 02 Base rim
+    3300004: 03 Base controls
+    3300006: 04 Bottom seat
+    3300008: 05 Bottom sides
+    3300010: 06 Back seat
+    3300012: 07 Seat back sides
+    3300014: 08 Upper neck
+    3300016: 09 Header
+    3300018: aro
+    3300020: aro.001
+    3300022: Ban
+    3300024: Ban2
+    3300026: Cube
+    3300028: Cylinder.002
+    3300030: Farol
+    3300032: Frente
+    3300034: lataria
+    3300036: Maneta
+    3300038: pneu
+    3300040: pneu.001
+    3300042: Portas
+    3300044: Vidro
+    3300046: Volante
+    4300000: 01 Base
+    4300002: 04 Bottom seat
+    4300004: 09 Header
+    4300006: 05 Bottom sides
+    4300008: 08 Upper neck
+    4300010: 06 Back seat
+    4300012: 07 Seat back sides
+    4300014: 03 Base controls
+    4300016: 02 Base rim
+    4300018: aro
+    4300020: aro.001
+    4300022: Cube
+    4300024: Cylinder.002
+    4300026: Farol
+    4300028: Frente
+    4300030: lataria
+    4300032: Maneta
+    4300034: pneu
+    4300036: pneu.001
+    4300038: Portas
+    4300040: Vidro
+    4300042: Volante
+    4300044: Ban
+    4300046: Ban2
+    10800000: Area.001
+    10800002: Point
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminio galvanizado
+    second: {fileID: 2100000, guid: b602b423dbe6c0b4dbc30572f9a68994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminio negro
+    second: {fileID: 2100000, guid: beed4a7edd309d943a5cd7e4d9e63681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aro
+    second: {fileID: 2100000, guid: 354788d943ca1ac4495f33529e093b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CUERO NEGRO
+    second: {fileID: 2100000, guid: edf2cc17140ec0d47a9bafe2e7e19bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chroma
+    second: {fileID: 2100000, guid: 60108debe167f8541b93c09f1309af4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Farol.001
+    second: {fileID: 2100000, guid: 1453fb8bb0dfeb14bb6676904614506c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: 52642752c05cab84781872bb7690b307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lataria
+    second: {fileID: 2100000, guid: b9bb7c40017678344bc58a55a05d8340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 697382daa34b19949863bfb514e5056f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 70668512d83548743a7a29c1a5032fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: fc70512f232816a438f0c9aaa67d000b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 7d2888d717132d04ba1bf5c5cbb5af19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 9b354c1a9b5522c43a40dbeb6df34eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 0d0126204bac03d4b8faaa750573f53d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastico Negro
+    second: {fileID: 2100000, guid: 07de8c339699dc5469420fe3e333fb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneu
+    second: {fileID: 2100000, guid: f1e719cc5e8e32a49959dfa6753e00fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Preto
+    second: {fileID: 2100000, guid: 061b90c34615876418735b0dd744b36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro
+    second: {fileID: 2100000, guid: 9725fc5c051464045b51f23c8abbd541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: d2b40cd0a1a10b643af18a1bb8a3dced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 64c83f510b562894bae09ec60a0e6c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: a41aecbc3e8471e438cae6c64b913a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: volante
+    second: {fileID: 2100000, guid: aaf8cb44d1cc28e4eaf526b75dc14121, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
